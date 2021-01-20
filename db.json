@@ -1,0 +1,53 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstname": "Jorge Adrian",
+      "lastname": "Rojas Garza",
+      "city": "Monterrey",
+      "type": "3"
+    },
+    {
+      "id": 2,
+      "firstname": "José Miguel",
+      "lastname": "Rojas Garza",
+      "city": "Tampico",
+      "type": "2"
+    },
+    {
+      "id": 3,
+      "firstname": "José Luis",
+      "lastname": "Rojas Ramos",
+      "city": "Puerto Vallarta",
+      "type": "1"
+    },
+    {
+      "id": 4,
+      "firstname": "Christian",
+      "lastname": "Flores Camargo",
+      "city": "Monterrey",
+      "type": "3"
+    },
+    {
+      "id": 5,
+      "firstname": "Silvia",
+      "lastname": "Barocio Gómez",
+      "city": "Tampico",
+      "type": "2"
+    },
+    {
+      "id": 6,
+      "firstname": "Claudia Gabriela",
+      "lastname": "Rojas Garza",
+      "city": "Monterrrey",
+      "type": "4"
+    },
+    {
+      "id": 7,
+      "firstname": "Mario",
+      "lastname": "Murillo Rodríguez",
+      "city": "Monterrrey",
+      "type": "4"
+    }
+  ]
+}
